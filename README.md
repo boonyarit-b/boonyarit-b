@@ -10,7 +10,7 @@ Currently preparing for a cybersecurity internship and studying Security+ (SY0-7
 
 - Networking Fundamentals
 - VLAN / Inter-VLAN Routing
-- ACL / NAT / DHCP
+- ACL / NAT / PAT / DHCP
 - Cisco Packet Tracer
 - Basic Linux
 - Network Troubleshooting
