@@ -32,7 +32,6 @@ Currently preparing for a cybersecurity internship and studying Security+ (SY0-7
 - CCNAv7: Introduction to Networks
 - CCNAv7: Switching, Routing, and Wireless Essentials
 - CCNAv7: Enterprise Networking, Security, and Automation
-- Linux Unhatched
 - Huawei ICT Academy Courses
 
 ---
